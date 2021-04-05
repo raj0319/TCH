@@ -1,7 +1,6 @@
 <?php
 include_once("include/constant.php");
 
-echo "test";
 echo "test123";
 ?>
 <!DOCTYPE html>
